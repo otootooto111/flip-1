@@ -6,7 +6,7 @@ import { GLTF } from 'three-stdlib'
 import { ASSET_LOGO, ASSET_MODEL, OPTIONS } from '../constants'
 
 const COIN_COLOR = '#5def95'
-const LABEL_FONT = 'bold 50px Comfortaa'
+const LABEL_FONT = 'bold 50px Comic Sans'
 const LABEL_TEXT_COLOR = 'white'
 const LABEL_TEXT_OUTLINE = 'black'
 const LABEL_TEXT_OUTLINE_THICKNESS = 15
