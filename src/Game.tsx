@@ -66,7 +66,7 @@ export function Game() {
               </Button>
             ) : !gamba.user.created ? (
               <Button $gradient onClick={() => gamba.init()}>
-                Launch the Froggo
+                Flip it, it's #OKAY
               </Button>
             ) : (
               <ButtonGroup>
