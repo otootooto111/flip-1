@@ -5,7 +5,7 @@ import { BufferGeometry, CanvasTexture, Group, MeshStandardMaterial } from 'thre
 import { GLTF } from 'three-stdlib'
 import { ASSET_LOGO, ASSET_MODEL, OPTIONS } from '../constants'
 
-const COIN_COLOR = '#5def95'
+const COIN_COLOR = '#10a248'
 const LABEL_FONT = 'bold 50px Arial'
 const LABEL_TEXT_COLOR = 'white'
 const LABEL_TEXT_OUTLINE = 'black'
